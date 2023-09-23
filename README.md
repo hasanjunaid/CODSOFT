@@ -10,7 +10,7 @@ Welcome to my internship tasks repository! Here, you'll find the results of my h
 
 ## Task Details
 
-Each task is organized in its respective directory with detailed documentation, code samples, and any relevant resources. Feel free to dive into each task to learn more about the specific challenges I tackled and the solutions I implemented.
+Each task is organized in its respective directory, allowing you to explore the project files and get an overview of the work I completed. Feel free to dive into each task to learn more about the specific projects I worked on during my internship.
 
 ## Getting Started
 
