@@ -14,7 +14,7 @@ Each task is organized in its respective directory with detailed documentation, 
 
 ## Getting Started
 
-If you want to explore any of the tasks or projects, simply navigate to their respective directories and follow the instructions provided in the README files within each folder.
+If you want to explore any of the tasks or projects, simply navigate to their respective directories for more details and access to the project files.
 
 ## Feedback
 
